@@ -1,7 +1,7 @@
 # Dactyl-Manuform-Blackpill
 Dactyl Manuform built using Blackpills 
 
-![dactyl_blackpill]([img]https://i.imgur.com/GgvsWLj.jpg[/img])
+![dactyl_blackpill](https://i.imgur.com/GgvsWLj.jpg)
 
 ARM Split Dactyl Manuform mechanical keyboard based on zvecr's z48
 
