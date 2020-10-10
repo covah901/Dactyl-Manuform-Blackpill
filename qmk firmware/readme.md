@@ -3,7 +3,7 @@
 ARM Split Dactyl Manuform mechanical keyboard based on zvecr's z48
 
 * z48's Maintainer: [zvecr](https://github.com/zvecr)
-* Hardware Supported: f401/f411 blackpill
+* Hardware Supported: f401 blackpill
 * Hardware Availability: [repo](https://github.com/zvecr/zv48)
 
 Make example for this keyboard (after setting up your build environment):
