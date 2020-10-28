@@ -22,7 +22,3 @@ FAUXCLICKY_ENABLE = no      # Use buzzer to emulate clicky switches
 SPLIT_KEYBOARD = yes
 SERIAL_DRIVER = usart
 WS2812_DRIVER = pwm
-
-DEFAULT_FOLDER = zvecr/zv48/f401
-
-LAYOUTS = ortho_4x12
